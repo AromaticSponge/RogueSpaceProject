@@ -1,0 +1,1398 @@
+﻿Log file open, 01/31/18 17:21:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: RogueSpace
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(875807732) SRandInit(875807732).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.182081
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.31-17.21.58:139][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.31-17.21.58:139][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.31-17.21.58:171][  0]LogInit: Computer: DESKTOP-DSLTKT8
+[2018.01.31-17.21.58:171][  0]LogInit: User: Chris
+[2018.01.31-17.21.58:171][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.31-17.21.58:171][  0]LogInit: High frequency timer resolution =3.513585 MHz
+[2018.01.31-17.21.58:172][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.01.31-17.21.58:172][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.31-17.21.58:172][  0]LogMemory: Process Physical Memory: 278.15 MB used, 278.15 MB peak
+[2018.01.31-17.21.58:172][  0]LogMemory: Process Virtual Memory: 274.22 MB used, 274.22 MB peak
+[2018.01.31-17.21.58:172][  0]LogMemory: Physical Memory: 5306.77 MB used,  11019.20 MB free, 16325.97 MB total
+[2018.01.31-17.21.58:172][  0]LogMemory: Virtual Memory: 702.11 MB used,  11019.20 MB free, 134217728.00 MB total
+[2018.01.31-17.21.59:802][  0]LogInit: Using OS detected language (en-GB).
+[2018.01.31-17.21.59:802][  0]LogInit: Using OS detected locale (en-GB).
+[2018.01.31-17.21.59:805][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.01.31-17.22.00:536][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.31-17.22.00:584][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2018.01.31-17.22.00:584][  0]LogD3D11RHI:       4058/0/8162 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.01.31-17.22.00:587][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.31-17.22.00:587][  0]LogD3D11RHI:       0/0/8162 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.31-17.22.00:587][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.31-17.22.00:595][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.31-17.22.00:595][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.31-17.22.00:595][  0]LogWindows: EnumDisplayDevices:
+[2018.01.31-17.22.00:595][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2018.01.31-17.22.00:595][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2018.01.31-17.22.00:595][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.01.31-17.22.00:595][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.01.31-17.22.00:595][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.31-17.22.00:595][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2018.01.31-17.22.00:595][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.31-17.22.00:595][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.31-17.22.00:595][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.01.31-17.22.00:621][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.31-17.22.00:701][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.31-17.22.00:750][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Intermediate/Shaders/WorkingDirectory/13828/).
+[2018.01.31-17.22.00:750][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Chris/AppData/Local/Temp/UnrealShaderWorkingDir/A1D155C04E6C54975804FF954BA0EB0C/'.
+[2018.01.31-17.22.00:751][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.31-17.22.01:917][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.31-17.22.02:001][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.31-17.22.02:083][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.31-17.22.02:162][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.31-17.22.02:238][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.31-17.22.02:307][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.31-17.22.02:374][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.31-17.22.02:441][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.31-17.22.02:500][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.31-17.22.02:566][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.31-17.22.02:630][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.31-17.22.02:721][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.31-17.22.02:788][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.31-17.22.02:852][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.31-17.22.02:917][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.31-17.22.03:056][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.31-17.22.03:056][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.31-17.22.03:112][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.31-17.22.03:231][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.31-17.22.03:288][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.31-17.22.03:352][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.31-17.22.03:416][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.31-17.22.03:480][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.31-17.22.03:545][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.31-17.22.03:545][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.31-17.22.04:294][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.31-17.22.04:406][  0]LogDerivedDataCache: Loaded boot cache 0.11s 93MB C:/Users/Chris/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.01.31-17.22.04:406][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Chris/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.01.31-17.22.04:406][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.31-17.22.04:406][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.31-17.22.04:406][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.31-17.22.04:406][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.31-17.22.04:421][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.31-17.22.04:433][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.31-17.22.04:442][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.31-17.22.04:442][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.31-17.22.04:443][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.31-17.22.04:443][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.31-17.22.04:710][  0]LogAssetRegistry: FAssetRegistry took 0.0260 seconds to start up
+[2018.01.31-17.22.04:866][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.31-17.22.05:356][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.31-17.22.05:411][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.31-17.22.05:411][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.31-17.22.05:411][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.31-17.22.05:411][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.31-17.22.05:411][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.31-17.22.05:436][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.01.31-17.22.05:853][  0]LogNetVersion: RogueSpace , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 490122950)
+[2018.01.31-17.22.06:085][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.042780 seconds
+[2018.01.31-17.22.06:091][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.01.31-17.22.06:091][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2018.01.31-17.22.06:091][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.31-17.22.06:183][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.31-17.22.09:369][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.31-17.22.09:423][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.31-17.22.10:362][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.31-17.22.11:003][  0]SourceControl: Source control is disabled
+[2018.01.31-17.22.11:003][  0]SourceControl: Source control is disabled
+[2018.01.31-17.22.11:091][  0]SourceControl: Source control is disabled
+[2018.01.31-17.22.11:172][  0]SourceControl: Source control is disabled
+[2018.01.31-17.22.12:073][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.31-17.22.12:434][  0]LogOcInput: OculusInput pre-init called
+[2018.01.31-17.22.12:767][  0]LogEngine: Initializing Engine...
+[2018.01.31-17.22.12:769][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2018.01.31-17.22.12:999][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.31-17.22.12:999][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.31-17.22.13:177][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.31-17.22.13:188][  0]LogInit: XAudio2 using 'Speakers (3- Sennheiser 3D G4ME1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-17.22.13:197][  0]LogInit: FAudioDevice initialized.
+[2018.01.31-17.22.15:457][  0]LogDerivedDataCache: Saved boot cache 2.26s 93MB C:/Users/Chris/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.01.31-17.22.15:468][  0]LogInit: Texture streaming: Enabled
+[2018.01.31-17.22.15:656][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.31-17.22.15:657][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={5E3691EB-4184-B614-DEAD-2EB1AE9ABD8F}
+[2018.01.31-17.22.15:946][  0]LogInit: Transaction tracking system initialized
+[2018.01.31-17.22.16:427][  0]BlueprintLog: New page: Editor Load
+[2018.01.31-17.22.19:030][  0]LocalizationService: Localization service is disabled
+[2018.01.31-17.22.20:275][  0]LogConsoleResponse: Display: 
+[2018.01.31-17.22.20:464][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.31-17.22.20:464][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.31-17.22.20:464][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.31-17.22.20:703][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Chris/Documents/Unreal Projects/RogueSpace/Content/' took 0.01s
+[2018.01.31-17.22.22:134][  0]SourceControl: Source control is disabled
+[2018.01.31-17.22.22:134][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.31-17.22.22:134][  0]LightingResults: New page: Lighting Build
+[2018.01.31-17.22.22:190][  0]MapCheck: New page: Map Check
+[2018.01.31-17.22.22:190][  0]LightingResults: New page: Lighting Build
+[2018.01.31-17.22.22:484][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.01.31-17.22.22:490][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.31-17.22.22:503][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.31-17.22.22:562][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58.832ms to complete.
+[2018.01.31-17.22.22:562][  0]LogFileHelpers: Loading map 'Template_Default' took 0.428
+[2018.01.31-17.22.22:709][  0]LogCollectionManager: Loaded 0 collections in 0.002252 seconds
+[2018.01.31-17.22.22:804][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Chris/Documents/Unreal Projects/RogueSpace/Saved/Collections/' took 0.01s
+[2018.01.31-17.22.22:804][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Chris/Documents/Unreal Projects/RogueSpace/Content/Developers/Chris/Collections/' took 0.01s
+[2018.01.31-17.22.22:804][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Chris/Documents/Unreal Projects/RogueSpace/Content/Collections/' took 0.01s
+[2018.01.31-17.22.22:804][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.31-17.22.22:812][  0]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 2386 classes and 500 folders.
+[2018.01.31-17.22.22:897][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.01.31-17.22.22:946][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.01.31-17.22.23:016][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2018.01.31-17.22.23:077][  0]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.31-17.22.23:082][  0]LogSlate: Took 0.000450 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.31-17.22.23:086][  0]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.31-17.22.23:182][  0]LogRenderer: Reallocating scene render targets to support 1220x588 Format 10 NumSamples 1 (Frame:1).
+[2018.01.31-17.22.23:367][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.01.31-17.22.23:368][  0]LogLoad: (Engine Initialization) Total time: 27.42 seconds
+[2018.01.31-17.22.23:368][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.31-17.22.23:368][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.31-17.22.23:378][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.31-17.22.23:395][  0]LogAssetRegistry: Asset discovery search completed in 18.7063 seconds
+[2018.01.31-17.22.23:396][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.01.31-17.22.23:396][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000034 seconds (updated 0 objects)
+[2018.01.31-17.22.23:399][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.31-17.22.23:438][  0]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.31-17.22.24:395][112]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.31-17.22.27:118][424]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.31-17.22.27:290][424]LogAIModule: Creating AISystem for world MainLevel
+[2018.01.31-17.22.27:308][424]Cmd: MAP LOAD FILE="../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Content/Levels/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.31-17.22.27:308][424]LightingResults: New page: Lighting Build
+[2018.01.31-17.22.27:308][424]LoadErrors: New page: Loading map: MainLevel.umap
+[2018.01.31-17.22.27:327][424]MapCheck: New page: Map Check
+[2018.01.31-17.22.27:327][424]LightingResults: New page: Lighting Build
+[2018.01.31-17.22.27:386][424]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.31-17.22.27:406][424]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.31-17.22.27:468][424]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 61.461ms to complete.
+[2018.01.31-17.22.27:468][424]LogFileHelpers: Loading map 'MainLevel' took 0.161
+[2018.01.31-17.22.29:025][600]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-17.22.29:066][600]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.22.29:066][600]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.22.29:066][600]PIE: New page: PIE session: MainLevel (31 Jan 2018 17:22:29)
+[2018.01.31-17.22.29:067][600]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2018.01.31-17.22.29:068][600]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001581s)
+[2018.01.31-17.22.29:069][600]LogAIModule: Creating AISystem for world MainLevel
+[2018.01.31-17.22.29:069][600]LogPlayLevel: PIE: World Init took: (0.000685s)
+[2018.01.31-17.22.29:069][600]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.002567s)
+[2018.01.31-17.22.29:083][600]LogInit: XAudio2 using 'Speakers (3- Sennheiser 3D G4ME1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-17.22.29:087][600]LogInit: FAudioDevice initialized.
+[2018.01.31-17.22.29:127][600]LogLoad: Game class is 'RogueSpaceGameMode_C'
+[2018.01.31-17.22.29:129][600]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.01.31-17.22.29
+[2018.01.31-17.22.29:130][600]LogWorld: Bringing up level for play took: 0.001052
+[2018.01.31-17.22.29:184][600]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2018.01.31-17.22.29:187][600]LogConsoleResponse: Display: 
+[2018.01.31-17.22.29:188][600]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 1.037
+[2018.01.31-17.22.29:188][600]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.22.31:056][815]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.22.31:086][815]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.22.33:399][ 84]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.22.33:399][ 84]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.22.33:400][ 84]PIE: New page: PIE session: MainLevel (31 Jan 2018 17:22:33)
+[2018.01.31-17.22.33:400][ 84]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2018.01.31-17.22.33:402][ 84]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001999s)
+[2018.01.31-17.22.33:403][ 84]LogAIModule: Creating AISystem for world MainLevel
+[2018.01.31-17.22.33:403][ 84]LogPlayLevel: PIE: World Init took: (0.001031s)
+[2018.01.31-17.22.33:403][ 84]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.003316s)
+[2018.01.31-17.22.33:417][ 84]LogInit: XAudio2 using 'Speakers (3- Sennheiser 3D G4ME1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-17.22.33:421][ 84]LogInit: FAudioDevice initialized.
+[2018.01.31-17.22.33:468][ 84]LogLoad: Game class is 'RogueSpaceGameMode_C'
+[2018.01.31-17.22.33:470][ 84]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.01.31-17.22.33
+[2018.01.31-17.22.33:471][ 84]LogWorld: Bringing up level for play took: 0.001511
+[2018.01.31-17.22.33:473][ 84]LogConsoleResponse: Display: 
+[2018.01.31-17.22.33:477][ 84]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0.674
+[2018.01.31-17.22.33:477][ 84]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.22.33:522][ 84]LogRenderer: Reallocating scene render targets to support 1220x996 Format 10 NumSamples 1 (Frame:1).
+[2018.01.31-17.22.36:495][426]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.22.36:526][426]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.22.42:133][ 15]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 113 classes and 0 folders.
+[2018.01.31-17.22.42:710][ 15]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.31-17.22.42:787][ 15]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.31-17.22.42:869][ 16]LogSlate: Took 0.000421 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.31-17.22.54:684][844]BlueprintLog: New page: Compile RogueSpacePlayerController
+[2018.01.31-17.22.55:794][908]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.31-17.22.55:809][908]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.22.55:809][908]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.22.55:809][908]PIE: New page: PIE session: MainLevel (31 Jan 2018 17:22:55)
+[2018.01.31-17.22.55:810][908]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2018.01.31-17.22.55:812][908]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001949s)
+[2018.01.31-17.22.55:812][908]LogAIModule: Creating AISystem for world MainLevel
+[2018.01.31-17.22.55:812][908]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2018.01.31-17.22.55:813][908]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.003176s)
+[2018.01.31-17.22.55:837][908]LogInit: XAudio2 using 'Speakers (3- Sennheiser 3D G4ME1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-17.22.55:841][908]LogInit: FAudioDevice initialized.
+[2018.01.31-17.22.55:889][908]LogLoad: Game class is 'RogueSpaceGameMode_C'
+[2018.01.31-17.22.55:890][908]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.01.31-17.22.55
+[2018.01.31-17.22.55:891][908]LogWorld: Bringing up level for play took: 0.001160
+[2018.01.31-17.22.55:893][908]LogConsoleResponse: Display: 
+[2018.01.31-17.22.55:900][908]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0.251
+[2018.01.31-17.22.55:900][908]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.23.05:593][524]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.23.05:630][524]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.23.24:594][821]LogRenderer: Reallocating scene render targets to support 1360x996 Format 10 NumSamples 1 (Frame:1).
+[2018.01.31-17.23.48:444][522]BlueprintLog: New page: Compile RogueSpacePlayerController
+[2018.01.31-17.23.49:383][580]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.31-17.23.49:395][580]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.23.49:395][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.23.49:395][580]PIE: New page: PIE session: MainLevel (31 Jan 2018 17:23:49)
+[2018.01.31-17.23.49:395][580]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2018.01.31-17.23.49:397][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001694s)
+[2018.01.31-17.23.49:398][580]LogAIModule: Creating AISystem for world MainLevel
+[2018.01.31-17.23.49:398][580]LogPlayLevel: PIE: World Init took: (0.000782s)
+[2018.01.31-17.23.49:398][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.002761s)
+[2018.01.31-17.23.49:423][580]LogInit: XAudio2 using 'Speakers (3- Sennheiser 3D G4ME1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-17.23.49:427][580]LogInit: FAudioDevice initialized.
+[2018.01.31-17.23.49:475][580]LogLoad: Game class is 'RogueSpaceGameMode_C'
+[2018.01.31-17.23.49:477][580]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.01.31-17.23.49
+[2018.01.31-17.23.49:477][580]LogWorld: Bringing up level for play took: 0.001144
+[2018.01.31-17.23.49:479][580]LogConsoleResponse: Display: 
+[2018.01.31-17.23.49:486][580]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0.664
+[2018.01.31-17.23.49:487][580]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.23.57:262][ 88]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.23.57:304][ 88]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.24.04:987][611]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.31-17.24.05:005][611]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.24.05:005][611]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.31-17.24.05:015][611]LogPlayLevel: [PlayLevel] Compiling RogueSpaceGameMode before play...
+[2018.01.31-17.24.05:019][611]LogPlayLevel: [PlayLevel]   Compiling RogueSpacePlayerController as a dependent...
+[2018.01.31-17.24.05:185][611]LogPlayLevel: PlayLevel: Blueprint regeneration took 179 ms (2 blueprints)
+[2018.01.31-17.24.05:186][611]PIE: New page: PIE session: MainLevel (31 Jan 2018 17:24:05)
+[2018.01.31-17.24.05:186][611]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2018.01.31-17.24.05:187][611]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001341s)
+[2018.01.31-17.24.05:188][611]LogAIModule: Creating AISystem for world MainLevel
+[2018.01.31-17.24.05:188][611]LogPlayLevel: PIE: World Init took: (0.000678s)
+[2018.01.31-17.24.05:188][611]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.002254s)
+[2018.01.31-17.24.05:211][611]LogInit: XAudio2 using 'Speakers (3- Sennheiser 3D G4ME1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-17.24.05:215][611]LogInit: FAudioDevice initialized.
+[2018.01.31-17.24.05:266][611]LogLoad: Game class is 'RogueSpaceGameMode_C'
+[2018.01.31-17.24.05:268][611]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.01.31-17.24.05
+[2018.01.31-17.24.05:268][611]LogWorld: Bringing up level for play took: 0.001224
+[2018.01.31-17.24.05:271][611]LogConsoleResponse: Display: 
+[2018.01.31-17.24.05:280][611]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 1.129
+[2018.01.31-17.24.05:281][611]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.24.10:116][920]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.24.10:146][920]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.24.19:190][663]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.31-17.24.19:205][663]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.24.19:205][663]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.24.19:205][663]PIE: New page: PIE session: MainLevel (31 Jan 2018 17:24:19)
+[2018.01.31-17.24.19:205][663]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2018.01.31-17.24.19:207][663]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001518s)
+[2018.01.31-17.24.19:207][663]LogAIModule: Creating AISystem for world MainLevel
+[2018.01.31-17.24.19:207][663]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2018.01.31-17.24.19:208][663]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.002384s)
+[2018.01.31-17.24.19:231][663]LogInit: XAudio2 using 'Speakers (3- Sennheiser 3D G4ME1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-17.24.19:235][663]LogInit: FAudioDevice initialized.
+[2018.01.31-17.24.19:287][663]LogLoad: Game class is 'RogueSpaceGameMode_C'
+[2018.01.31-17.24.19:289][663]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.01.31-17.24.19
+[2018.01.31-17.24.19:290][663]LogWorld: Bringing up level for play took: 0.001123
+[2018.01.31-17.24.19:292][663]LogConsoleResponse: Display: 
+[2018.01.31-17.24.19:298][663]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0.852
+[2018.01.31-17.24.19:299][663]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.24.24:682][ 34]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.24.24:713][ 34]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.24.42:337][282]BlueprintLog: New page: Compile BaseShipClass
+[2018.01.31-17.24.44:317][413]BlueprintLog: New page: Compile PlayerShip
+[2018.01.31-17.24.45:196][465]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.31-17.24.45:211][465]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.24.45:211][465]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.24.45:211][465]PIE: New page: PIE session: MainLevel (31 Jan 2018 17:24:45)
+[2018.01.31-17.24.45:211][465]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2018.01.31-17.24.45:213][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001400s)
+[2018.01.31-17.24.45:213][465]LogAIModule: Creating AISystem for world MainLevel
+[2018.01.31-17.24.45:213][465]LogPlayLevel: PIE: World Init took: (0.000522s)
+[2018.01.31-17.24.45:213][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.002132s)
+[2018.01.31-17.24.45:237][465]LogInit: XAudio2 using 'Speakers (3- Sennheiser 3D G4ME1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-17.24.45:241][465]LogInit: FAudioDevice initialized.
+[2018.01.31-17.24.45:291][465]LogLoad: Game class is 'RogueSpaceGameMode_C'
+[2018.01.31-17.24.45:293][465]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.01.31-17.24.45
+[2018.01.31-17.24.45:293][465]LogWorld: Bringing up level for play took: 0.001002
+[2018.01.31-17.24.45:296][465]LogConsoleResponse: Display: 
+[2018.01.31-17.24.45:302][465]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0.849
+[2018.01.31-17.24.45:302][465]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.24.51:889][917]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.24.51:920][917]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.25.02:874][870]BlueprintLog: New page: Compile RogueSpacePlayerController
+[2018.01.31-17.25.03:897][946]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.31-17.25.03:912][946]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.25.03:912][946]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.25.03:912][946]PIE: New page: PIE session: MainLevel (31 Jan 2018 17:25:03)
+[2018.01.31-17.25.03:912][946]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2018.01.31-17.25.03:914][946]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001358s)
+[2018.01.31-17.25.03:914][946]LogAIModule: Creating AISystem for world MainLevel
+[2018.01.31-17.25.03:914][946]LogPlayLevel: PIE: World Init took: (0.000544s)
+[2018.01.31-17.25.03:914][946]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.002125s)
+[2018.01.31-17.25.03:938][946]LogInit: XAudio2 using 'Speakers (3- Sennheiser 3D G4ME1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-17.25.03:941][946]LogInit: FAudioDevice initialized.
+[2018.01.31-17.25.03:994][946]LogLoad: Game class is 'RogueSpaceGameMode_C'
+[2018.01.31-17.25.03:997][946]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.01.31-17.25.03
+[2018.01.31-17.25.03:997][946]LogWorld: Bringing up level for play took: 0.002136
+[2018.01.31-17.25.04:000][946]LogConsoleResponse: Display: 
+[2018.01.31-17.25.04:010][946]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0.14
+[2018.01.31-17.25.04:011][946]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.25.11:671][525]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.25.11:714][525]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.25.27:938][894]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.31-17.25.27:953][894]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.25.27:953][894]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.31-17.25.27:963][894]LogPlayLevel: [PlayLevel] Compiling RogueSpaceGameMode before play...
+[2018.01.31-17.25.27:966][894]LogPlayLevel: [PlayLevel]   Compiling RogueSpacePlayerController as a dependent...
+[2018.01.31-17.25.28:133][894]LogPlayLevel: PlayLevel: Blueprint regeneration took 180 ms (2 blueprints)
+[2018.01.31-17.25.28:133][894]PIE: New page: PIE session: MainLevel (31 Jan 2018 17:25:28)
+[2018.01.31-17.25.28:133][894]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2018.01.31-17.25.28:135][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001594s)
+[2018.01.31-17.25.28:135][894]LogAIModule: Creating AISystem for world MainLevel
+[2018.01.31-17.25.28:135][894]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2018.01.31-17.25.28:136][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.002572s)
+[2018.01.31-17.25.28:159][894]LogInit: XAudio2 using 'Speakers (3- Sennheiser 3D G4ME1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-17.25.28:163][894]LogInit: FAudioDevice initialized.
+[2018.01.31-17.25.28:214][894]LogLoad: Game class is 'RogueSpaceGameMode_C'
+[2018.01.31-17.25.28:216][894]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.01.31-17.25.28
+[2018.01.31-17.25.28:216][894]LogWorld: Bringing up level for play took: 0.001076
+[2018.01.31-17.25.28:218][894]LogConsoleResponse: Display: 
+[2018.01.31-17.25.28:225][894]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0.075
+[2018.01.31-17.25.28:226][894]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.25.30:667][ 72]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.25.30:709][ 72]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.25.33:177][262]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.31-17.25.33:193][262]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.25.33:193][262]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.25.33:193][262]PIE: New page: PIE session: MainLevel (31 Jan 2018 17:25:33)
+[2018.01.31-17.25.33:193][262]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2018.01.31-17.25.33:195][262]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001652s)
+[2018.01.31-17.25.33:195][262]LogAIModule: Creating AISystem for world MainLevel
+[2018.01.31-17.25.33:195][262]LogPlayLevel: PIE: World Init took: (0.000736s)
+[2018.01.31-17.25.33:196][262]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.002649s)
+[2018.01.31-17.25.33:219][262]LogInit: XAudio2 using 'Speakers (3- Sennheiser 3D G4ME1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-17.25.33:223][262]LogInit: FAudioDevice initialized.
+[2018.01.31-17.25.33:273][262]LogLoad: Game class is 'RogueSpaceGameMode_C'
+[2018.01.31-17.25.33:276][262]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.01.31-17.25.33
+[2018.01.31-17.25.33:276][262]LogWorld: Bringing up level for play took: 0.001183
+[2018.01.31-17.25.33:279][262]LogConsoleResponse: Display: 
+[2018.01.31-17.25.33:285][262]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0.865
+[2018.01.31-17.25.33:286][262]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.25.37:824][591]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.25.37:856][591]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.25.42:108][943]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.25.42:108][943]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.25.42:108][943]PIE: New page: PIE session: MainLevel (31 Jan 2018 17:25:42)
+[2018.01.31-17.25.42:108][943]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2018.01.31-17.25.42:109][943]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001367s)
+[2018.01.31-17.25.42:110][943]LogAIModule: Creating AISystem for world MainLevel
+[2018.01.31-17.25.42:110][943]LogPlayLevel: PIE: World Init took: (0.000891s)
+[2018.01.31-17.25.42:111][943]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.002534s)
+[2018.01.31-17.25.42:135][943]LogInit: XAudio2 using 'Speakers (3- Sennheiser 3D G4ME1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-17.25.42:139][943]LogInit: FAudioDevice initialized.
+[2018.01.31-17.25.42:171][943]LogLoad: Game class is 'RogueSpaceGameMode_C'
+[2018.01.31-17.25.42:173][943]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.01.31-17.25.42
+[2018.01.31-17.25.42:173][943]LogWorld: Bringing up level for play took: 0.001041
+[2018.01.31-17.25.42:176][943]LogConsoleResponse: Display: 
+[2018.01.31-17.25.42:176][943]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0.026
+[2018.01.31-17.25.42:176][943]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.25.50:360][453]LogEditorViewport: Clicking on Actor (LMB): PlayerShip_C (PlayerShip1)
+[2018.01.31-17.25.56:993][838]LogEditorViewport: Clicking on Actor (LMB): PlayerShip_C (PlayerShip1)
+[2018.01.31-17.25.57:772][890]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.25.57:803][890]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.26.03:431][357]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-17.26.03:447][357]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.26.03:447][357]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.26.03:448][357]PIE: New page: PIE session: MainLevel (31 Jan 2018 17:26:03)
+[2018.01.31-17.26.03:448][357]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2018.01.31-17.26.03:449][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001719s)
+[2018.01.31-17.26.03:450][357]LogAIModule: Creating AISystem for world MainLevel
+[2018.01.31-17.26.03:451][357]LogPlayLevel: PIE: World Init took: (0.001229s)
+[2018.01.31-17.26.03:451][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.003212s)
+[2018.01.31-17.26.03:477][357]LogInit: XAudio2 using 'Speakers (3- Sennheiser 3D G4ME1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-17.26.03:481][357]LogInit: FAudioDevice initialized.
+[2018.01.31-17.26.03:515][357]LogLoad: Game class is 'RogueSpaceGameMode_C'
+[2018.01.31-17.26.03:517][357]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.01.31-17.26.03
+[2018.01.31-17.26.03:517][357]LogWorld: Bringing up level for play took: 0.001205
+[2018.01.31-17.26.03:519][357]LogConsoleResponse: Display: 
+[2018.01.31-17.26.03:520][357]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0.631
+[2018.01.31-17.26.03:520][357]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.26.09:815][783]LogEditorViewport: Clicking on Actor (LMB): PlayerShip_C (PlayerShip1)
+[2018.01.31-17.26.12:699][948]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.26.12:731][948]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.26.24:119][913]BlueprintLog: New page: Compile RogueSpacePlayerController
+[2018.01.31-17.26.24:836][961]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-17.26.24:852][961]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.26.24:853][961]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.26.24:853][961]PIE: New page: PIE session: MainLevel (31 Jan 2018 17:26:24)
+[2018.01.31-17.26.24:853][961]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2018.01.31-17.26.24:854][961]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001414s)
+[2018.01.31-17.26.24:855][961]LogAIModule: Creating AISystem for world MainLevel
+[2018.01.31-17.26.24:855][961]LogPlayLevel: PIE: World Init took: (0.000564s)
+[2018.01.31-17.26.24:855][961]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.002201s)
+[2018.01.31-17.26.24:880][961]LogInit: XAudio2 using 'Speakers (3- Sennheiser 3D G4ME1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-17.26.24:883][961]LogInit: FAudioDevice initialized.
+[2018.01.31-17.26.24:917][961]LogLoad: Game class is 'RogueSpaceGameMode_C'
+[2018.01.31-17.26.24:919][961]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.01.31-17.26.24
+[2018.01.31-17.26.24:919][961]LogWorld: Bringing up level for play took: 0.001138
+[2018.01.31-17.26.24:921][961]LogConsoleResponse: Display: 
+[2018.01.31-17.26.24:922][961]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0.771
+[2018.01.31-17.26.24:922][961]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.26.26:232][ 75]LogActor: Warning: PlayerShip_C_1 is outside the world bounds!
+[2018.01.31-17.26.39:984][ 73]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.26.40:018][ 73]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.26.44:305][442]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-17.26.44:322][442]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.26.44:322][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.26.44:322][442]PIE: New page: PIE session: MainLevel (31 Jan 2018 17:26:44)
+[2018.01.31-17.26.44:322][442]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2018.01.31-17.26.44:323][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001510s)
+[2018.01.31-17.26.44:324][442]LogAIModule: Creating AISystem for world MainLevel
+[2018.01.31-17.26.44:324][442]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2018.01.31-17.26.44:324][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.002400s)
+[2018.01.31-17.26.44:348][442]LogInit: XAudio2 using 'Speakers (3- Sennheiser 3D G4ME1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-17.26.44:352][442]LogInit: FAudioDevice initialized.
+[2018.01.31-17.26.44:385][442]LogLoad: Game class is 'RogueSpaceGameMode_C'
+[2018.01.31-17.26.44:387][442]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.01.31-17.26.44
+[2018.01.31-17.26.44:387][442]LogWorld: Bringing up level for play took: 0.001010
+[2018.01.31-17.26.44:389][442]LogConsoleResponse: Display: 
+[2018.01.31-17.26.44:390][442]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0.239
+[2018.01.31-17.26.44:390][442]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.26.45:864][578]LogActor: Warning: PlayerShip_C_1 is outside the world bounds!
+[2018.01.31-17.26.48:068][748]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.26.48:103][748]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.27.23:263][607]LogEditorViewport: Clicking on Actor (LMB): AlternateBaseShip_C (AlternateBaseShip)
+[2018.01.31-17.27.23:474][623]Cmd: DELETE
+[2018.01.31-17.27.23:474][623]Cmd: ACTOR DELETE
+[2018.01.31-17.27.23:475][623]LogEditorActor: Deleted Actor: AlternateBaseShip_C
+[2018.01.31-17.27.23:494][623]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2018.01.31-17.27.43:135][773]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.01.31-17.27.43:218][773]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.01.31-17.27.45:366][773]LogSavePackage: Save=1.72ms
+[2018.01.31-17.27.45:366][773]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Saved/AlternateBaseShip5F06BDB344996FE9C9D21C9D37A65AB7.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Content/Blueprint/Player/AlternateBaseShip.uasset'
+[2018.01.31-17.27.45:370][773]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Content/Blueprint/Player/AlternateBaseShip.uasset
+[2018.01.31-17.27.45:440][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Content/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.31-17.27.45:507][773]LogSavePackage: Save=43.93ms
+[2018.01.31-17.27.45:507][773]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Saved/MainLevelAFFB0BEE4FF4C453ACB9EBB218B874D8.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Content/Levels/MainLevel.umap'
+[2018.01.31-17.27.45:511][773]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Content/Levels/MainLevel.umap
+[2018.01.31-17.27.45:562][773]LogFileHelpers: Saving map 'MainLevel' took 0.190
+[2018.01.31-17.27.47:363][984]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-17.27.47:374][984]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.27.47:374][984]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.27.47:374][984]PIE: New page: PIE session: MainLevel (31 Jan 2018 17:27:47)
+[2018.01.31-17.27.47:374][984]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2018.01.31-17.27.47:375][984]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001398s)
+[2018.01.31-17.27.47:376][984]LogAIModule: Creating AISystem for world MainLevel
+[2018.01.31-17.27.47:376][984]LogPlayLevel: PIE: World Init took: (0.000587s)
+[2018.01.31-17.27.47:376][984]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.002179s)
+[2018.01.31-17.27.47:397][984]LogInit: XAudio2 using 'Speakers (3- Sennheiser 3D G4ME1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-17.27.47:401][984]LogInit: FAudioDevice initialized.
+[2018.01.31-17.27.47:432][984]LogLoad: Game class is 'RogueSpaceGameMode_C'
+[2018.01.31-17.27.47:433][984]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.01.31-17.27.47
+[2018.01.31-17.27.47:434][984]LogWorld: Bringing up level for play took: 0.001042
+[2018.01.31-17.27.47:436][984]LogConsoleResponse: Display: 
+[2018.01.31-17.27.47:436][984]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0.714
+[2018.01.31-17.27.47:437][984]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.27.48:793][140]LogActor: Warning: PlayerShip_C_1 is outside the world bounds!
+[2018.01.31-17.27.50:283][315]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.27.50:317][315]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.28.04:712][599]BlueprintLog: New page: Compile RogueSpacePlayerController
+[2018.01.31-17.28.05:677][672]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-17.28.05:688][672]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.28.05:688][672]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.28.05:689][672]PIE: New page: PIE session: MainLevel (31 Jan 2018 17:28:05)
+[2018.01.31-17.28.05:689][672]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2018.01.31-17.28.05:690][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001483s)
+[2018.01.31-17.28.05:691][672]LogAIModule: Creating AISystem for world MainLevel
+[2018.01.31-17.28.05:691][672]LogPlayLevel: PIE: World Init took: (0.000678s)
+[2018.01.31-17.28.05:691][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.002396s)
+[2018.01.31-17.28.05:715][672]LogInit: XAudio2 using 'Speakers (3- Sennheiser 3D G4ME1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-17.28.05:718][672]LogInit: FAudioDevice initialized.
+[2018.01.31-17.28.05:756][672]LogLoad: Game class is 'RogueSpaceGameMode_C'
+[2018.01.31-17.28.05:757][672]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.01.31-17.28.05
+[2018.01.31-17.28.05:758][672]LogWorld: Bringing up level for play took: 0.001001
+[2018.01.31-17.28.05:760][672]LogConsoleResponse: Display: 
+[2018.01.31-17.28.05:760][672]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0.391
+[2018.01.31-17.28.05:760][672]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.28.07:808][863]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.28.07:838][863]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.28.10:058][ 65]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-17.28.10:096][ 65]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.28.10:096][ 65]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.28.10:097][ 65]PIE: New page: PIE session: MainLevel (31 Jan 2018 17:28:10)
+[2018.01.31-17.28.10:097][ 65]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2018.01.31-17.28.10:098][ 65]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001552s)
+[2018.01.31-17.28.10:099][ 65]LogAIModule: Creating AISystem for world MainLevel
+[2018.01.31-17.28.10:099][ 65]LogPlayLevel: PIE: World Init took: (0.000581s)
+[2018.01.31-17.28.10:099][ 65]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.002316s)
+[2018.01.31-17.28.10:121][ 65]LogInit: XAudio2 using 'Speakers (3- Sennheiser 3D G4ME1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-17.28.10:125][ 65]LogInit: FAudioDevice initialized.
+[2018.01.31-17.28.10:157][ 65]LogLoad: Game class is 'RogueSpaceGameMode_C'
+[2018.01.31-17.28.10:159][ 65]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.01.31-17.28.10
+[2018.01.31-17.28.10:159][ 65]LogWorld: Bringing up level for play took: 0.001056
+[2018.01.31-17.28.10:162][ 65]LogConsoleResponse: Display: 
+[2018.01.31-17.28.10:162][ 65]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0.012
+[2018.01.31-17.28.10:163][ 65]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.28.22:774][114]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.28.22:806][114]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.28.29:291][666]BlueprintLog: New page: Compile RogueSpacePlayerController
+[2018.01.31-17.28.31:528][854]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.28.31:528][854]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.28.31:528][854]PIE: New page: PIE session: MainLevel (31 Jan 2018 17:28:31)
+[2018.01.31-17.28.31:529][854]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2018.01.31-17.28.31:530][854]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001467s)
+[2018.01.31-17.28.31:530][854]LogAIModule: Creating AISystem for world MainLevel
+[2018.01.31-17.28.31:531][854]LogPlayLevel: PIE: World Init took: (0.000529s)
+[2018.01.31-17.28.31:531][854]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.002227s)
+[2018.01.31-17.28.31:553][854]LogInit: XAudio2 using 'Speakers (3- Sennheiser 3D G4ME1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-17.28.31:563][854]LogInit: FAudioDevice initialized.
+[2018.01.31-17.28.31:625][854]LogLoad: Game class is 'RogueSpaceGameMode_C'
+[2018.01.31-17.28.31:627][854]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.01.31-17.28.31
+[2018.01.31-17.28.31:627][854]LogWorld: Bringing up level for play took: 0.001043
+[2018.01.31-17.28.31:630][854]LogConsoleResponse: Display: 
+[2018.01.31-17.28.31:637][854]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0.514
+[2018.01.31-17.28.31:637][854]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.28.39:769][400]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.28.39:798][400]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.28.45:322][934]LogSavePackage: Save=43.09ms
+[2018.01.31-17.28.45:322][934]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Saved/RogueSpacePlayerControllerF6DA675F408D3984836D9489CC54263D.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Content/Blueprint/Player/RogueSpacePlayerController.uasset'
+[2018.01.31-17.28.45:326][934]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Content/Blueprint/Player/RogueSpacePlayerController.uasset
+[2018.01.31-17.28.49:347][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Player/PlayerShip" FILE="../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Content/Blueprint/Player/PlayerShip.uasset" SILENT=true
+[2018.01.31-17.28.49:389][290]LogSavePackage: Save=34.50ms
+[2018.01.31-17.28.49:389][290]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Saved/PlayerShip41A22CAA4E7A6E133FE63CBDBDD10E4B.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Content/Blueprint/Player/PlayerShip.uasset'
+[2018.01.31-17.28.49:393][290]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Content/Blueprint/Player/PlayerShip.uasset
+[2018.01.31-17.28.49:396][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Player/BaseShipClass" FILE="../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Content/Blueprint/Player/BaseShipClass.uasset" SILENT=true
+[2018.01.31-17.28.49:475][290]LogSavePackage: Save=71.09ms
+[2018.01.31-17.28.49:475][290]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Saved/BaseShipClass578FF4734B3B559E047EAC9E72A43C79.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Content/Blueprint/Player/BaseShipClass.uasset'
+[2018.01.31-17.28.49:479][290]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Content/Blueprint/Player/BaseShipClass.uasset
+[2018.01.31-17.29.07:278][758]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2018.01.31-17.29.10:440][993]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube)
+[2018.01.31-17.29.15:206][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.01.31-17.29.16:095][419]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube2)
+[2018.01.31-17.29.16:736][468]Cmd: EDIT COPY
+[2018.01.31-17.29.16:909][480]Cmd: EDIT PASTE
+[2018.01.31-17.29.23:854][ 25]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.01.31-17.29.27:158][283]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2018.01.31-17.29.27:488][299]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube2)
+[2018.01.31-17.29.27:896][316]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube)
+[2018.01.31-17.29.29:025][404]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube4)
+[2018.01.31-17.29.34:947][872]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.31-17.29.34:958][872]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.29.34:958][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.29.34:959][872]PIE: New page: PIE session: MainLevel (31 Jan 2018 17:29:34)
+[2018.01.31-17.29.34:959][872]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2018.01.31-17.29.34:961][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001777s)
+[2018.01.31-17.29.34:961][872]LogAIModule: Creating AISystem for world MainLevel
+[2018.01.31-17.29.34:961][872]LogPlayLevel: PIE: World Init took: (0.000770s)
+[2018.01.31-17.29.34:962][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.002793s)
+[2018.01.31-17.29.34:985][872]LogInit: XAudio2 using 'Speakers (3- Sennheiser 3D G4ME1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-17.29.34:989][872]LogInit: FAudioDevice initialized.
+[2018.01.31-17.29.35:038][872]LogLoad: Game class is 'RogueSpaceGameMode_C'
+[2018.01.31-17.29.35:040][872]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.01.31-17.29.35
+[2018.01.31-17.29.35:040][872]LogWorld: Bringing up level for play took: 0.001245
+[2018.01.31-17.29.35:043][872]LogConsoleResponse: Display: 
+[2018.01.31-17.29.35:049][872]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0.899
+[2018.01.31-17.29.35:050][872]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.29.44:571][599]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.29.44:625][599]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.29.47:512][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Content/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.31-17.29.47:582][818]LogSavePackage: Save=46.10ms
+[2018.01.31-17.29.47:582][818]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Saved/MainLevel4423268D4227CF4D3413469EAD365D7E.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Content/Levels/MainLevel.umap'
+[2018.01.31-17.29.47:585][818]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Content/Levels/MainLevel.umap
+[2018.01.31-17.29.47:597][818]LogFileHelpers: Saving map 'MainLevel' took 0.155
+[2018.01.31-17.30.03:727][878]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.31-17.30.03:738][878]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.30.03:738][878]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.30.03:738][878]PIE: New page: PIE session: MainLevel (31 Jan 2018 17:30:03)
+[2018.01.31-17.30.03:739][878]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2018.01.31-17.30.03:740][878]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001723s)
+[2018.01.31-17.30.03:741][878]LogAIModule: Creating AISystem for world MainLevel
+[2018.01.31-17.30.03:741][878]LogPlayLevel: PIE: World Init took: (0.000667s)
+[2018.01.31-17.30.03:741][878]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.002642s)
+[2018.01.31-17.30.03:765][878]LogInit: XAudio2 using 'Speakers (3- Sennheiser 3D G4ME1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-17.30.03:769][878]LogInit: FAudioDevice initialized.
+[2018.01.31-17.30.03:821][878]LogLoad: Game class is 'RogueSpaceGameMode_C'
+[2018.01.31-17.30.03:823][878]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.01.31-17.30.03
+[2018.01.31-17.30.03:823][878]LogWorld: Bringing up level for play took: 0.001073
+[2018.01.31-17.30.03:825][878]LogConsoleResponse: Display: 
+[2018.01.31-17.30.03:832][878]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0.318
+[2018.01.31-17.30.03:832][878]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.30.32:717][125]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.30.32:763][125]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.31.41:721][332]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Space)
+[2018.01.31-17.31.45:042][570]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0009 seconds. Added 1 classes and 0 folders.
+[2018.01.31-17.31.45:045][570]LogMaterial: Missing cached shader map for material SpaceBackgroundMaterial, compiling. 
+[2018.01.31-17.31.45:120][570]LogMaterial: Missing cached shader map for material SpaceBackgroundMaterial, compiling. 
+[2018.01.31-17.31.45:133][570]LogMaterial: Missing cached shader map for material SpaceBackgroundMaterial, compiling. 
+[2018.01.31-17.31.45:170][570]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.31-17.31.46:857][627]MaterialEditorStats: Base pass shader: 83 instructions
+[2018.01.31-17.31.46:857][627]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.31-17.31.46:857][627]MaterialEditorStats: Texture samplers: 4/16
+[2018.01.31-17.31.46:857][627]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.31-17.31.54:426][189]LogMaterial: Missing cached shader map for material SpaceBackgroundMaterial, compiling. 
+[2018.01.31-17.31.55:800][242]MaterialEditorStats: Base pass shader: 83 instructions
+[2018.01.31-17.31.55:800][242]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.31-17.31.55:800][242]MaterialEditorStats: Texture samplers: 4/16
+[2018.01.31-17.31.55:800][242]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.31-17.31.57:320][361]LogMaterialEditor: Applying material SpaceBackgroundMaterial
+[2018.01.31-17.31.57:800][361]LogMaterial: Missing cached shader map for material SpaceBackgroundMaterial, compiling. 
+[2018.01.31-17.31.57:849][361]LogMaterial: Missing cached shader map for material SpaceBackgroundMaterial, compiling. 
+[2018.01.31-17.31.57:894][361]LogMaterial: Missing cached shader map for material SpaceBackgroundMaterial, compiling. 
+[2018.01.31-17.31.57:972][361]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy SpaceBackgroundMaterial, compiling. 
+[2018.01.31-17.31.58:843][361]TextureStreamingBuild: Display: Compiling optional shaders took 0.883 seconds.
+[2018.01.31-17.32.01:692][487]MaterialEditorStats: Base pass shader: 83 instructions
+[2018.01.31-17.32.01:692][487]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.31-17.32.01:692][487]MaterialEditorStats: Texture samplers: 4/16
+[2018.01.31-17.32.01:692][487]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.31-17.32.07:307][932]LogMaterial: Missing cached shader map for material SpaceBackgroundMaterial, compiling. 
+[2018.01.31-17.32.08:658][983]MaterialEditorStats: Base pass shader: 83 instructions
+[2018.01.31-17.32.08:659][983]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.31-17.32.08:659][983]MaterialEditorStats: Texture samplers: 4/16
+[2018.01.31-17.32.08:659][983]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.31-17.32.10:915][151]LogMaterial: Missing cached shader map for material SpaceBackgroundMaterial, compiling. 
+[2018.01.31-17.32.12:245][201]MaterialEditorStats: Base pass shader: 83 instructions
+[2018.01.31-17.32.12:245][201]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.31-17.32.12:245][201]MaterialEditorStats: Texture samplers: 4/16
+[2018.01.31-17.32.12:245][201]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.31-17.32.21:873][921]LogMaterial: Missing cached shader map for material SpaceBackgroundMaterial, compiling. 
+[2018.01.31-17.32.23:689][985]MaterialEditorStats: Base pass shader: 83 instructions
+[2018.01.31-17.32.23:689][985]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.31-17.32.23:689][985]MaterialEditorStats: Texture samplers: 4/16
+[2018.01.31-17.32.23:689][985]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.31-17.32.25:822][140]LogMaterialEditor: Applying material SpaceBackgroundMaterial
+[2018.01.31-17.32.26:326][140]LogMaterial: Missing cached shader map for material SpaceBackgroundMaterial, compiling. 
+[2018.01.31-17.32.26:367][140]LogMaterial: Missing cached shader map for material SpaceBackgroundMaterial, compiling. 
+[2018.01.31-17.32.26:408][140]LogMaterial: Missing cached shader map for material SpaceBackgroundMaterial, compiling. 
+[2018.01.31-17.32.26:491][140]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy SpaceBackgroundMaterial, compiling. 
+[2018.01.31-17.32.27:357][140]TextureStreamingBuild: Display: Compiling optional shaders took 0.881 seconds.
+[2018.01.31-17.32.30:164][272]MaterialEditorStats: Base pass shader: 83 instructions
+[2018.01.31-17.32.30:164][272]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.31-17.32.30:164][272]MaterialEditorStats: Texture samplers: 4/16
+[2018.01.31-17.32.30:164][272]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.31-17.32.30:577][300]LogMaterial: Missing cached shader map for material SpaceBackgroundMaterial, compiling. 
+[2018.01.31-17.32.31:957][354]MaterialEditorStats: Base pass shader: 82 instructions
+[2018.01.31-17.32.31:957][354]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.31-17.32.31:957][354]MaterialEditorStats: Texture samplers: 4/16
+[2018.01.31-17.32.31:957][354]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.31-17.32.36:249][686]LogMaterial: Missing cached shader map for material SpaceBackgroundMaterial, compiling. 
+[2018.01.31-17.32.37:600][738]MaterialEditorStats: Base pass shader: 84 instructions
+[2018.01.31-17.32.37:600][738]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.31-17.32.37:600][738]MaterialEditorStats: Texture samplers: 4/16
+[2018.01.31-17.32.37:600][738]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.31-17.32.42:617][132]LogMaterial: Missing cached shader map for material SpaceBackgroundMaterial, compiling. 
+[2018.01.31-17.32.43:758][174]LogMaterial: Missing cached shader map for material SpaceBackgroundMaterial, compiling. 
+[2018.01.31-17.32.44:642][203]LogMaterialEditor: Applying material SpaceBackgroundMaterial
+[2018.01.31-17.32.45:301][203]LogMaterial: Missing cached shader map for material SpaceBackgroundMaterial, compiling. 
+[2018.01.31-17.32.45:340][203]LogMaterial: Missing cached shader map for material SpaceBackgroundMaterial, compiling. 
+[2018.01.31-17.32.45:385][203]LogMaterial: Missing cached shader map for material SpaceBackgroundMaterial, compiling. 
+[2018.01.31-17.32.45:460][203]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy SpaceBackgroundMaterial, compiling. 
+[2018.01.31-17.32.46:345][203]TextureStreamingBuild: Display: Compiling optional shaders took 0.899 seconds.
+[2018.01.31-17.32.49:176][335]MaterialEditorStats: Base pass shader: 84 instructions
+[2018.01.31-17.32.49:176][335]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.31-17.32.49:176][335]MaterialEditorStats: Texture samplers: 4/16
+[2018.01.31-17.32.49:176][335]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.31-17.32.52:162][566]LogMaterial: Missing cached shader map for material SpaceBackgroundMaterial, compiling. 
+[2018.01.31-17.32.52:980][596]LogMaterial: Missing cached shader map for material SpaceBackgroundMaterial, compiling. 
+[2018.01.31-17.32.54:109][635]LogMaterialEditor: Applying material SpaceBackgroundMaterial
+[2018.01.31-17.32.54:657][635]LogMaterial: Missing cached shader map for material SpaceBackgroundMaterial, compiling. 
+[2018.01.31-17.32.54:697][635]LogMaterial: Missing cached shader map for material SpaceBackgroundMaterial, compiling. 
+[2018.01.31-17.32.54:737][635]LogMaterial: Missing cached shader map for material SpaceBackgroundMaterial, compiling. 
+[2018.01.31-17.32.54:803][635]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy SpaceBackgroundMaterial, compiling. 
+[2018.01.31-17.32.55:697][635]TextureStreamingBuild: Display: Compiling optional shaders took 0.903 seconds.
+[2018.01.31-17.32.58:707][771]MaterialEditorStats: Base pass shader: 84 instructions
+[2018.01.31-17.32.58:707][771]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.31-17.32.58:707][771]MaterialEditorStats: Texture samplers: 4/16
+[2018.01.31-17.32.58:707][771]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.31-17.33.01:675][998]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.31-17.33.01:686][998]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.33.01:686][998]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.33.01:686][998]PIE: New page: PIE session: MainLevel (31 Jan 2018 17:33:01)
+[2018.01.31-17.33.01:686][998]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2018.01.31-17.33.01:688][998]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001801s)
+[2018.01.31-17.33.01:689][998]LogAIModule: Creating AISystem for world MainLevel
+[2018.01.31-17.33.01:689][998]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2018.01.31-17.33.01:689][998]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.002836s)
+[2018.01.31-17.33.01:713][998]LogInit: XAudio2 using 'Speakers (3- Sennheiser 3D G4ME1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-17.33.01:717][998]LogInit: FAudioDevice initialized.
+[2018.01.31-17.33.01:763][998]LogLoad: Game class is 'RogueSpaceGameMode_C'
+[2018.01.31-17.33.01:765][998]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.01.31-17.33.01
+[2018.01.31-17.33.01:766][998]LogWorld: Bringing up level for play took: 0.001262
+[2018.01.31-17.33.01:769][998]LogConsoleResponse: Display: 
+[2018.01.31-17.33.01:776][998]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0.375
+[2018.01.31-17.33.01:777][998]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.33.08:004][479]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.33.08:055][479]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.33.09:572][593]LogEditorViewport: Clicking Background
+[2018.01.31-17.33.11:522][774]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.01.31-17.33.42:844][336]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.31-17.33.42:856][336]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.33.42:856][336]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.33.42:856][336]PIE: New page: PIE session: MainLevel (31 Jan 2018 17:33:42)
+[2018.01.31-17.33.42:856][336]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2018.01.31-17.33.42:858][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001812s)
+[2018.01.31-17.33.42:859][336]LogAIModule: Creating AISystem for world MainLevel
+[2018.01.31-17.33.42:859][336]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2018.01.31-17.33.42:859][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.002882s)
+[2018.01.31-17.33.42:881][336]LogInit: XAudio2 using 'Speakers (3- Sennheiser 3D G4ME1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-17.33.42:886][336]LogInit: FAudioDevice initialized.
+[2018.01.31-17.33.42:936][336]LogLoad: Game class is 'RogueSpaceGameMode_C'
+[2018.01.31-17.33.42:938][336]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.01.31-17.33.42
+[2018.01.31-17.33.42:938][336]LogWorld: Bringing up level for play took: 0.001341
+[2018.01.31-17.33.42:940][336]LogConsoleResponse: Display: 
+[2018.01.31-17.33.42:947][336]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0.797
+[2018.01.31-17.33.42:947][336]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.33.44:186][431]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.33.44:242][431]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.33.50:011][910]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.31-17.33.50:022][910]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.33.50:023][910]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.33.50:023][910]PIE: New page: PIE session: MainLevel (31 Jan 2018 17:33:50)
+[2018.01.31-17.33.50:023][910]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2018.01.31-17.33.50:024][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001539s)
+[2018.01.31-17.33.50:025][910]LogAIModule: Creating AISystem for world MainLevel
+[2018.01.31-17.33.50:025][910]LogPlayLevel: PIE: World Init took: (0.000593s)
+[2018.01.31-17.33.50:025][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.002377s)
+[2018.01.31-17.33.50:047][910]LogInit: XAudio2 using 'Speakers (3- Sennheiser 3D G4ME1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-17.33.50:051][910]LogInit: FAudioDevice initialized.
+[2018.01.31-17.33.50:102][910]LogLoad: Game class is 'RogueSpaceGameMode_C'
+[2018.01.31-17.33.50:104][910]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.01.31-17.33.50
+[2018.01.31-17.33.50:105][910]LogWorld: Bringing up level for play took: 0.001321
+[2018.01.31-17.33.50:107][910]LogConsoleResponse: Display: 
+[2018.01.31-17.33.50:115][910]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0.036
+[2018.01.31-17.33.50:115][910]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.33.56:920][429]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.33.56:960][429]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.34.08:098][379]LogEditorViewport: Clicking Background
+[2018.01.31-17.34.11:173][651]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.01.31-17.34.34:113][489]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.31-17.34.34:125][489]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.34.34:125][489]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.34.34:125][489]PIE: New page: PIE session: MainLevel (31 Jan 2018 17:34:34)
+[2018.01.31-17.34.34:125][489]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2018.01.31-17.34.34:127][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001685s)
+[2018.01.31-17.34.34:127][489]LogAIModule: Creating AISystem for world MainLevel
+[2018.01.31-17.34.34:127][489]LogPlayLevel: PIE: World Init took: (0.000651s)
+[2018.01.31-17.34.34:128][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.002571s)
+[2018.01.31-17.34.34:150][489]LogInit: XAudio2 using 'Speakers (3- Sennheiser 3D G4ME1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-17.34.34:155][489]LogInit: FAudioDevice initialized.
+[2018.01.31-17.34.34:246][489]LogLoad: Game class is 'RogueSpaceGameMode_C'
+[2018.01.31-17.34.34:248][489]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.01.31-17.34.34
+[2018.01.31-17.34.34:248][489]LogWorld: Bringing up level for play took: 0.001368
+[2018.01.31-17.34.34:251][489]LogConsoleResponse: Display: 
+[2018.01.31-17.34.34:258][489]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0.107
+[2018.01.31-17.34.34:258][489]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.34.41:610][ 58]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.34.41:654][ 58]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.34.45:386][355]LogEditorViewport: Clicking Background
+[2018.01.31-17.35.48:660][676]LogEditorViewport: Clicking on Actor (LMB): CameraActor (MainCamera)
+[2018.01.31-17.35.49:053][696]LogEditorViewport: Clicking on Actor (LMB): CameraActor (MainCamera)
+[2018.01.31-17.36.27:092][799]LogMaterial: Missing cached shader map for material SpaceBackgroundMaterial, compiling. 
+[2018.01.31-17.36.28:770][870]MaterialEditorStats: Base pass shader: 84 instructions
+[2018.01.31-17.36.28:770][870]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.31-17.36.28:770][870]MaterialEditorStats: Texture samplers: 4/16
+[2018.01.31-17.36.28:770][870]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.31-17.36.45:225][796]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.01.31-17.37.45:564][910]LogEditorViewport: Clicking on Actor (LMB): CameraActor (MainCamera)
+[2018.01.31-17.37.59:715][553]LogEditorViewport: Clicking Background
+[2018.01.31-17.38.01:073][706]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.31-17.38.01:087][706]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.38.01:087][706]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.38.01:087][706]PIE: New page: PIE session: MainLevel (31 Jan 2018 17:38:01)
+[2018.01.31-17.38.01:087][706]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2018.01.31-17.38.01:089][706]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001950s)
+[2018.01.31-17.38.01:090][706]LogAIModule: Creating AISystem for world MainLevel
+[2018.01.31-17.38.01:090][706]LogPlayLevel: PIE: World Init took: (0.000877s)
+[2018.01.31-17.38.01:090][706]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.003071s)
+[2018.01.31-17.38.01:116][706]LogInit: XAudio2 using 'Speakers (3- Sennheiser 3D G4ME1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-17.38.01:120][706]LogInit: FAudioDevice initialized.
+[2018.01.31-17.38.01:168][706]LogLoad: Game class is 'RogueSpaceGameMode_C'
+[2018.01.31-17.38.01:170][706]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.01.31-17.38.01
+[2018.01.31-17.38.01:171][706]LogWorld: Bringing up level for play took: 0.001433
+[2018.01.31-17.38.01:173][706]LogConsoleResponse: Display: 
+[2018.01.31-17.38.01:180][706]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 1.029
+[2018.01.31-17.38.01:180][706]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.38.08:718][579]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.38.08:751][579]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.38.10:606][794]LogEditorViewport: Clicking on Actor (LMB): CameraActor (MainCamera)
+[2018.01.31-17.38.20:547][941]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.31-17.38.20:557][941]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.38.20:557][941]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.38.20:557][941]PIE: New page: PIE session: MainLevel (31 Jan 2018 17:38:20)
+[2018.01.31-17.38.20:557][941]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2018.01.31-17.38.20:559][941]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001530s)
+[2018.01.31-17.38.20:559][941]LogAIModule: Creating AISystem for world MainLevel
+[2018.01.31-17.38.20:560][941]LogPlayLevel: PIE: World Init took: (0.000604s)
+[2018.01.31-17.38.20:560][941]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.002369s)
+[2018.01.31-17.38.20:615][941]LogInit: XAudio2 using 'Speakers (3- Sennheiser 3D G4ME1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-17.38.20:619][941]LogInit: FAudioDevice initialized.
+[2018.01.31-17.38.20:680][941]LogLoad: Game class is 'RogueSpaceGameMode_C'
+[2018.01.31-17.38.20:683][941]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.01.31-17.38.20
+[2018.01.31-17.38.20:684][941]LogWorld: Bringing up level for play took: 0.002270
+[2018.01.31-17.38.20:689][941]LogConsoleResponse: Display: 
+[2018.01.31-17.38.20:699][941]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0.549
+[2018.01.31-17.38.20:700][941]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.38.24:654][393]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.38.24:743][393]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.38.28:517][823]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.31-17.38.28:528][823]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.38.28:528][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.38.28:528][823]PIE: New page: PIE session: MainLevel (31 Jan 2018 17:38:28)
+[2018.01.31-17.38.28:528][823]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2018.01.31-17.38.28:530][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001655s)
+[2018.01.31-17.38.28:531][823]LogAIModule: Creating AISystem for world MainLevel
+[2018.01.31-17.38.28:531][823]LogPlayLevel: PIE: World Init took: (0.000655s)
+[2018.01.31-17.38.28:531][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.002619s)
+[2018.01.31-17.38.28:589][823]LogInit: XAudio2 using 'Speakers (3- Sennheiser 3D G4ME1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-17.38.28:593][823]LogInit: FAudioDevice initialized.
+[2018.01.31-17.38.28:642][823]LogLoad: Game class is 'RogueSpaceGameMode_C'
+[2018.01.31-17.38.28:644][823]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.01.31-17.38.28
+[2018.01.31-17.38.28:644][823]LogWorld: Bringing up level for play took: 0.001123
+[2018.01.31-17.38.28:646][823]LogConsoleResponse: Display: 
+[2018.01.31-17.38.28:653][823]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0.502
+[2018.01.31-17.38.28:653][823]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.38.30:369][ 15]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.38.30:457][ 15]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.38.34:390][464]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.31-17.38.34:401][464]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.38.34:401][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.38.34:401][464]PIE: New page: PIE session: MainLevel (31 Jan 2018 17:38:34)
+[2018.01.31-17.38.34:401][464]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2018.01.31-17.38.34:403][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002353s)
+[2018.01.31-17.38.34:404][464]LogAIModule: Creating AISystem for world MainLevel
+[2018.01.31-17.38.34:404][464]LogPlayLevel: PIE: World Init took: (0.000632s)
+[2018.01.31-17.38.34:404][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.003311s)
+[2018.01.31-17.38.34:463][464]LogInit: XAudio2 using 'Speakers (3- Sennheiser 3D G4ME1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-17.38.34:467][464]LogInit: FAudioDevice initialized.
+[2018.01.31-17.38.34:518][464]LogLoad: Game class is 'RogueSpaceGameMode_C'
+[2018.01.31-17.38.34:520][464]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.01.31-17.38.34
+[2018.01.31-17.38.34:520][464]LogWorld: Bringing up level for play took: 0.001164
+[2018.01.31-17.38.34:522][464]LogConsoleResponse: Display: 
+[2018.01.31-17.38.34:529][464]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0.378
+[2018.01.31-17.38.34:529][464]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.38.35:739][597]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.38.35:825][597]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.38.41:563][260]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.31-17.38.41:574][260]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.38.41:574][260]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.38.41:574][260]PIE: New page: PIE session: MainLevel (31 Jan 2018 17:38:41)
+[2018.01.31-17.38.41:575][260]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2018.01.31-17.38.41:576][260]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001454s)
+[2018.01.31-17.38.41:576][260]LogAIModule: Creating AISystem for world MainLevel
+[2018.01.31-17.38.41:577][260]LogPlayLevel: PIE: World Init took: (0.000562s)
+[2018.01.31-17.38.41:577][260]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.002285s)
+[2018.01.31-17.38.41:636][260]LogInit: XAudio2 using 'Speakers (3- Sennheiser 3D G4ME1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-17.38.41:640][260]LogInit: FAudioDevice initialized.
+[2018.01.31-17.38.41:689][260]LogLoad: Game class is 'RogueSpaceGameMode_C'
+[2018.01.31-17.38.41:690][260]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.01.31-17.38.41
+[2018.01.31-17.38.41:691][260]LogWorld: Bringing up level for play took: 0.001079
+[2018.01.31-17.38.41:693][260]LogConsoleResponse: Display: 
+[2018.01.31-17.38.41:699][260]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0.452
+[2018.01.31-17.38.41:699][260]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.38.47:530][931]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.38.47:609][931]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.39.01:348][532]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.31-17.39.01:359][532]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.39.01:359][532]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.39.01:359][532]PIE: New page: PIE session: MainLevel (31 Jan 2018 17:39:01)
+[2018.01.31-17.39.01:359][532]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2018.01.31-17.39.01:361][532]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001651s)
+[2018.01.31-17.39.01:361][532]LogAIModule: Creating AISystem for world MainLevel
+[2018.01.31-17.39.01:361][532]LogPlayLevel: PIE: World Init took: (0.000684s)
+[2018.01.31-17.39.01:362][532]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.002555s)
+[2018.01.31-17.39.01:418][532]LogInit: XAudio2 using 'Speakers (3- Sennheiser 3D G4ME1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-17.39.01:422][532]LogInit: FAudioDevice initialized.
+[2018.01.31-17.39.01:471][532]LogLoad: Game class is 'RogueSpaceGameMode_C'
+[2018.01.31-17.39.01:474][532]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.01.31-17.39.01
+[2018.01.31-17.39.01:474][532]LogWorld: Bringing up level for play took: 0.001289
+[2018.01.31-17.39.01:476][532]LogConsoleResponse: Display: 
+[2018.01.31-17.39.01:482][532]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0.669
+[2018.01.31-17.39.01:483][532]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.39.15:440][150]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.39.15:517][150]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.39.16:348][237]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Space)
+[2018.01.31-17.39.22:477][932]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.01.31-17.39.25:027][221]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.31-17.39.25:037][221]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.39.25:037][221]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.39.25:038][221]PIE: New page: PIE session: MainLevel (31 Jan 2018 17:39:25)
+[2018.01.31-17.39.25:038][221]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2018.01.31-17.39.25:039][221]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001586s)
+[2018.01.31-17.39.25:040][221]LogAIModule: Creating AISystem for world MainLevel
+[2018.01.31-17.39.25:040][221]LogPlayLevel: PIE: World Init took: (0.000612s)
+[2018.01.31-17.39.25:040][221]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.002417s)
+[2018.01.31-17.39.25:064][221]LogInit: XAudio2 using 'Speakers (3- Sennheiser 3D G4ME1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-17.39.25:068][221]LogInit: FAudioDevice initialized.
+[2018.01.31-17.39.25:120][221]LogLoad: Game class is 'RogueSpaceGameMode_C'
+[2018.01.31-17.39.25:122][221]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.01.31-17.39.25
+[2018.01.31-17.39.25:123][221]LogWorld: Bringing up level for play took: 0.001331
+[2018.01.31-17.39.25:125][221]LogConsoleResponse: Display: 
+[2018.01.31-17.39.25:131][221]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0.981
+[2018.01.31-17.39.25:132][221]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.39.36:037][490]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.39.36:088][490]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.39.39:089][841]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.01.31-17.39.39:899][936]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Space)
+[2018.01.31-17.39.40:979][ 56]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2018.01.31-17.39.45:130][542]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.01.31-17.39.57:533][990]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.31-17.39.57:543][990]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.39.57:543][990]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.39.57:544][990]PIE: New page: PIE session: MainLevel (31 Jan 2018 17:39:57)
+[2018.01.31-17.39.57:544][990]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2018.01.31-17.39.57:546][990]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001715s)
+[2018.01.31-17.39.57:546][990]LogAIModule: Creating AISystem for world MainLevel
+[2018.01.31-17.39.57:546][990]LogPlayLevel: PIE: World Init took: (0.000648s)
+[2018.01.31-17.39.57:546][990]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.002634s)
+[2018.01.31-17.39.57:568][990]LogInit: XAudio2 using 'Speakers (3- Sennheiser 3D G4ME1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-17.39.57:572][990]LogInit: FAudioDevice initialized.
+[2018.01.31-17.39.57:622][990]LogLoad: Game class is 'RogueSpaceGameMode_C'
+[2018.01.31-17.39.57:623][990]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.01.31-17.39.57
+[2018.01.31-17.39.57:624][990]LogWorld: Bringing up level for play took: 0.001218
+[2018.01.31-17.39.57:626][990]LogConsoleResponse: Display: 
+[2018.01.31-17.39.57:632][990]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0.518
+[2018.01.31-17.39.57:633][990]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.40.04:171][726]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.40.04:211][726]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.40.18:757][428]LogEditorViewport: Clicking Background
+[2018.01.31-17.40.20:688][652]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.31-17.40.20:699][652]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.40.20:699][652]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.40.20:699][652]PIE: New page: PIE session: MainLevel (31 Jan 2018 17:40:20)
+[2018.01.31-17.40.20:699][652]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2018.01.31-17.40.20:701][652]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001577s)
+[2018.01.31-17.40.20:701][652]LogAIModule: Creating AISystem for world MainLevel
+[2018.01.31-17.40.20:701][652]LogPlayLevel: PIE: World Init took: (0.000751s)
+[2018.01.31-17.40.20:702][652]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.002640s)
+[2018.01.31-17.40.20:725][652]LogInit: XAudio2 using 'Speakers (3- Sennheiser 3D G4ME1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-17.40.20:729][652]LogInit: FAudioDevice initialized.
+[2018.01.31-17.40.20:779][652]LogLoad: Game class is 'RogueSpaceGameMode_C'
+[2018.01.31-17.40.20:781][652]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.01.31-17.40.20
+[2018.01.31-17.40.20:781][652]LogWorld: Bringing up level for play took: 0.001098
+[2018.01.31-17.40.20:784][652]LogConsoleResponse: Display: 
+[2018.01.31-17.40.20:790][652]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0.639
+[2018.01.31-17.40.20:790][652]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.40.35:751][363]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.40.35:794][363]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.01.31-17.41.47:134][748]LogSavePackage: Save=48.55ms
+[2018.01.31-17.41.47:134][748]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Saved/MainLevel_Auto1BA2DE264451E67607694FF80A238FE68.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Saved/Autosaves/Game/Levels/MainLevel_Auto1.umap'
+[2018.01.31-17.41.47:137][748]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Saved/Autosaves/Game/Levels/MainLevel_Auto1.umap
+[2018.01.31-17.41.47:139][748]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainLevel' took 0.091
+[2018.01.31-17.41.47:139][748]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.091
+[2018.01.31-17.41.47:142][748]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/SpaceBackgroundMaterial] ([1] browsable assets)...
+[2018.01.31-17.41.47:170][748]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/SpaceBackgroundMaterial.SpaceBackgroundMaterial]
+[2018.01.31-17.41.47:170][748]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/SpaceBackgroundMaterial]
+[2018.01.31-17.41.47:191][748]LogSavePackage: Save=11.73ms
+[2018.01.31-17.41.47:191][748]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Saved/SpaceBackgroundMaterial_Auto198B725274F1A73078730178A3ECE6506.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Saved/Autosaves/Game/Assets/SpaceBackgroundMaterial_Auto1.uasset'
+[2018.01.31-17.41.47:193][748]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Saved/Autosaves/Game/Assets/SpaceBackgroundMaterial_Auto1.uasset
+[2018.01.31-17.41.47:193][748]LogFileHelpers: Auto-saving content packages took 0.052
+[2018.01.31-18.45.11:641][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Content/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.31-18.45.11:715][454]LogSavePackage: Save=49.33ms
+[2018.01.31-18.45.11:716][454]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Saved/MainLevelDC341DBD44AC208A3F269FB69FE7DACC.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Content/Levels/MainLevel.umap'
+[2018.01.31-18.45.11:720][454]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Content/Levels/MainLevel.umap
+[2018.01.31-18.45.11:813][454]LogFileHelpers: Saving map 'MainLevel' took 0.239
+[2018.01.31-18.45.11:816][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SpaceBackgroundMaterial" FILE="../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Content/Assets/SpaceBackgroundMaterial.uasset" SILENT=true
+[2018.01.31-18.45.11:836][454]LogSavePackage: Save=4.06ms
+[2018.01.31-18.45.11:836][454]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Saved/SpaceBackgroundMaterial7F9E7BCD47BB80C84E84C89E43635535.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Content/Assets/SpaceBackgroundMaterial.uasset'
+[2018.01.31-18.45.11:839][454]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Content/Assets/SpaceBackgroundMaterial.uasset
+[2018.01.31-18.45.16:112][620]LogMaterial: Missing cached shader map for material SpaceBackgroundMaterial, compiling. 
+[2018.01.31-18.45.16:150][620]LogMaterial: Missing cached shader map for material SpaceBackgroundMaterial, compiling. 
+[2018.01.31-18.45.16:188][620]LogMaterial: Missing cached shader map for material SpaceBackgroundMaterial, compiling. 
+[2018.01.31-18.45.16:247][620]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy SpaceBackgroundMaterial, compiling. 
+[2018.01.31-18.45.17:518][620]TextureStreamingBuild: Display: Compiling optional shaders took 1.277 seconds.
+[2018.01.31-18.45.19:786][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SpaceBackgroundMaterial" FILE="../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Content/Assets/SpaceBackgroundMaterial.uasset" SILENT=true
+[2018.01.31-18.45.19:806][620]LogSavePackage: Save=11.68ms
+[2018.01.31-18.45.19:806][620]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Saved/SpaceBackgroundMaterial2A2798804224A47586A430904B5E43DF.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Content/Assets/SpaceBackgroundMaterial.uasset'
+[2018.01.31-18.45.19:809][620]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Content/Assets/SpaceBackgroundMaterial.uasset
+[2018.01.31-18.45.20:101][620]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.31-18.45.20:347][621]Cmd: QUIT_EDITOR
+[2018.01.31-18.45.20:504][621]LogExit: Preparing to exit.
+[2018.01.31-18.45.21:217][621]LogDirectoryWatcher: A directory notification for 'C:/Users/Chris/Documents/Unreal Projects/RogueSpace/Content/' was aborted.
+[2018.01.31-18.45.21:307][621]LogExit: Editor shut down
+[2018.01.31-18.45.21:339][621]LogExit: Transaction tracking system shut down
+[2018.01.31-18.45.21:549][621]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.01.31-18.45.21:549][621]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Chris/Documents/Unreal Projects/RogueSpace/Content/' was aborted.
+[2018.01.31-18.45.21:549][621]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.01.31-18.45.21:549][621]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.01.31-18.45.21:549][621]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.01.31-18.45.21:777][621]LogExit: Object subsystem successfully closed.
+[2018.01.31-18.45.21:809][621]LogD3D11RHI: Shutdown
+[2018.01.31-18.45.21:809][621]LogD3D11RHI: CleanupD3DDevice
+[2018.01.31-18.45.21:991][621]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.01.31-18.45.22:020][621]LogModuleManager: Shutting down and abandoning module MaterialEditor (538)
+[2018.01.31-18.45.22:020][621]LogModuleManager: Shutting down and abandoning module BlueprintGraph (536)
+[2018.01.31-18.45.22:020][621]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (534)
+[2018.01.31-18.45.22:020][621]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (532)
+[2018.01.31-18.45.22:020][621]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2018.01.31-18.45.22:020][621]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2018.01.31-18.45.22:020][621]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2018.01.31-18.45.22:020][621]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2018.01.31-18.45.22:025][621]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2018.01.31-18.45.22:025][621]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2018.01.31-18.45.22:025][621]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2018.01.31-18.45.22:025][621]LogDirectoryWatcher: A directory notification for 'C:/Users/Chris/Documents/Unreal Projects/RogueSpace/Content/Collections/' was aborted.
+[2018.01.31-18.45.22:025][621]LogDirectoryWatcher: A directory notification for 'C:/Users/Chris/Documents/Unreal Projects/RogueSpace/Content/Developers/Chris/Collections/' was aborted.
+[2018.01.31-18.45.22:025][621]LogDirectoryWatcher: A directory notification for 'C:/Users/Chris/Documents/Unreal Projects/RogueSpace/Saved/Collections/' was aborted.
+[2018.01.31-18.45.22:025][621]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2018.01.31-18.45.22:025][621]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2018.01.31-18.45.22:025][621]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2018.01.31-18.45.22:025][621]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2018.01.31-18.45.22:025][621]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2018.01.31-18.45.22:025][621]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2018.01.31-18.45.22:025][621]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2018.01.31-18.45.22:025][621]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2018.01.31-18.45.22:025][621]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2018.01.31-18.45.22:025][621]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2018.01.31-18.45.22:025][621]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2018.01.31-18.45.22:025][621]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2018.01.31-18.45.22:025][621]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2018.01.31-18.45.22:025][621]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2018.01.31-18.45.22:025][621]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2018.01.31-18.45.22:026][621]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2018.01.31-18.45.22:026][621]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2018.01.31-18.45.22:026][621]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2018.01.31-18.45.22:026][621]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2018.01.31-18.45.22:026][621]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2018.01.31-18.45.22:026][621]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2018.01.31-18.45.22:026][621]LogModuleManager: Shutting down and abandoning module Media (477)
+[2018.01.31-18.45.22:026][621]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2018.01.31-18.45.22:026][621]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2018.01.31-18.45.22:026][621]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2018.01.31-18.45.22:026][621]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2018.01.31-18.45.22:026][621]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2018.01.31-18.45.22:026][621]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2018.01.31-18.45.22:026][621]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2018.01.31-18.45.22:026][621]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2018.01.31-18.45.22:026][621]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2018.01.31-18.45.22:026][621]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2018.01.31-18.45.22:026][621]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2018.01.31-18.45.22:026][621]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2018.01.31-18.45.22:026][621]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2018.01.31-18.45.22:026][621]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2018.01.31-18.45.22:026][621]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2018.01.31-18.45.22:026][621]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2018.01.31-18.45.22:717][621]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2018.01.31-18.45.22:717][621]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2018.01.31-18.45.22:717][621]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2018.01.31-18.45.22:717][621]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2018.01.31-18.45.22:717][621]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2018.01.31-18.45.22:717][621]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2018.01.31-18.45.22:717][621]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2018.01.31-18.45.22:717][621]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2018.01.31-18.45.22:717][621]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2018.01.31-18.45.22:718][621]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2018.01.31-18.45.22:718][621]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2018.01.31-18.45.22:718][621]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2018.01.31-18.45.22:718][621]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2018.01.31-18.45.22:718][621]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2018.01.31-18.45.22:718][621]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2018.01.31-18.45.22:718][621]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2018.01.31-18.45.22:718][621]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2018.01.31-18.45.22:718][621]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2018.01.31-18.45.22:718][621]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2018.01.31-18.45.22:718][621]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2018.01.31-18.45.22:718][621]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2018.01.31-18.45.22:718][621]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2018.01.31-18.45.22:718][621]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2018.01.31-18.45.22:718][621]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2018.01.31-18.45.22:781][621]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2018.01.31-18.45.22:781][621]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2018.01.31-18.45.22:781][621]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2018.01.31-18.45.22:781][621]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2018.01.31-18.45.22:781][621]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2018.01.31-18.45.22:781][621]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2018.01.31-18.45.22:782][621]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2018.01.31-18.45.22:782][621]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2018.01.31-18.45.22:782][621]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2018.01.31-18.45.22:782][621]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2018.01.31-18.45.22:795][621]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2018.01.31-18.45.22:797][621]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2018.01.31-18.45.22:797][621]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2018.01.31-18.45.22:797][621]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2018.01.31-18.45.22:797][621]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2018.01.31-18.45.22:797][621]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2018.01.31-18.45.22:797][621]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2018.01.31-18.45.22:797][621]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2018.01.31-18.45.22:797][621]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2018.01.31-18.45.22:797][621]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2018.01.31-18.45.22:797][621]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2018.01.31-18.45.22:797][621]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2018.01.31-18.45.22:797][621]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2018.01.31-18.45.22:797][621]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2018.01.31-18.45.22:797][621]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2018.01.31-18.45.22:797][621]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2018.01.31-18.45.22:797][621]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2018.01.31-18.45.22:797][621]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2018.01.31-18.45.22:797][621]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2018.01.31-18.45.22:797][621]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2018.01.31-18.45.22:797][621]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2018.01.31-18.45.23:033][621]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2018.01.31-18.45.23:033][621]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2018.01.31-18.45.23:033][621]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2018.01.31-18.45.23:033][621]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2018.01.31-18.45.23:033][621]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2018.01.31-18.45.23:033][621]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2018.01.31-18.45.23:033][621]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2018.01.31-18.45.23:033][621]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2018.01.31-18.45.23:033][621]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2018.01.31-18.45.23:033][621]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2018.01.31-18.45.23:033][621]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2018.01.31-18.45.23:034][621]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2018.01.31-18.45.23:034][621]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2018.01.31-18.45.23:034][621]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2018.01.31-18.45.23:034][621]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2018.01.31-18.45.23:034][621]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2018.01.31-18.45.23:034][621]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2018.01.31-18.45.23:034][621]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2018.01.31-18.45.23:034][621]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2018.01.31-18.45.23:034][621]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2018.01.31-18.45.23:034][621]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2018.01.31-18.45.23:034][621]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2018.01.31-18.45.23:034][621]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2018.01.31-18.45.23:034][621]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2018.01.31-18.45.23:034][621]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2018.01.31-18.45.23:034][621]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2018.01.31-18.45.23:034][621]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2018.01.31-18.45.23:034][621]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2018.01.31-18.45.23:034][621]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2018.01.31-18.45.23:034][621]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2018.01.31-18.45.23:034][621]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2018.01.31-18.45.23:034][621]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2018.01.31-18.45.23:035][621]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2018.01.31-18.45.23:035][621]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2018.01.31-18.45.23:036][621]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2018.01.31-18.45.23:036][621]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2018.01.31-18.45.23:036][621]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2018.01.31-18.45.23:036][621]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2018.01.31-18.45.23:036][621]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2018.01.31-18.45.23:036][621]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2018.01.31-18.45.23:036][621]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2018.01.31-18.45.23:036][621]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2018.01.31-18.45.23:036][621]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2018.01.31-18.45.23:137][621]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2018.01.31-18.45.23:237][621]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2018.01.31-18.45.23:237][621]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2018.01.31-18.45.23:237][621]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2018.01.31-18.45.23:237][621]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2018.01.31-18.45.23:238][621]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2018.01.31-18.45.23:238][621]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2018.01.31-18.45.23:241][621]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2018.01.31-18.45.23:241][621]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2018.01.31-18.45.23:241][621]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2018.01.31-18.45.23:241][621]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2018.01.31-18.45.23:244][621]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2018.01.31-18.45.23:244][621]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2018.01.31-18.45.23:244][621]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2018.01.31-18.45.23:244][621]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2018.01.31-18.45.23:244][621]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2018.01.31-18.45.23:244][621]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2018.01.31-18.45.23:244][621]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2018.01.31-18.45.23:244][621]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2018.01.31-18.45.23:244][621]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2018.01.31-18.45.23:244][621]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2018.01.31-18.45.23:244][621]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2018.01.31-18.45.23:244][621]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2018.01.31-18.45.23:245][621]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2018.01.31-18.45.23:245][621]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2018.01.31-18.45.23:245][621]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2018.01.31-18.45.23:245][621]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2018.01.31-18.45.23:245][621]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2018.01.31-18.45.23:245][621]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2018.01.31-18.45.23:245][621]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2018.01.31-18.45.23:245][621]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2018.01.31-18.45.23:253][621]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2018.01.31-18.45.23:253][621]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2018.01.31-18.45.23:253][621]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2018.01.31-18.45.23:253][621]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2018.01.31-18.45.23:253][621]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2018.01.31-18.45.23:253][621]LogModuleManager: Shutting down and abandoning module Core (168)
+[2018.01.31-18.45.23:253][621]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.01.31-18.45.23:253][621]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2018.01.31-18.45.23:253][621]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2018.01.31-18.45.23:253][621]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2018.01.31-18.45.23:253][621]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2018.01.31-18.45.23:253][621]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2018.01.31-18.45.23:253][621]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2018.01.31-18.45.23:253][621]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2018.01.31-18.45.23:253][621]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2018.01.31-18.45.23:253][621]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2018.01.31-18.45.23:263][621]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2018.01.31-18.45.23:277][621]LogDerivedDataCache: Shutdown
+[2018.01.31-18.45.23:277][621]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2018.01.31-18.45.23:277][621]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2018.01.31-18.45.23:277][621]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2018.01.31-18.45.23:277][621]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2018.01.31-18.45.23:277][621]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2018.01.31-18.45.23:277][621]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2018.01.31-18.45.23:278][621]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2018.01.31-18.45.23:278][621]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2018.01.31-18.45.23:278][621]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2018.01.31-18.45.23:278][621]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2018.01.31-18.45.23:278][621]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2018.01.31-18.45.23:278][621]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2018.01.31-18.45.23:278][621]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2018.01.31-18.45.23:278][621]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2018.01.31-18.45.23:279][621]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2018.01.31-18.45.23:279][621]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2018.01.31-18.45.23:279][621]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2018.01.31-18.45.23:279][621]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2018.01.31-18.45.23:279][621]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2018.01.31-18.45.23:279][621]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2018.01.31-18.45.23:279][621]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2018.01.31-18.45.23:279][621]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2018.01.31-18.45.23:279][621]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2018.01.31-18.45.23:279][621]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2018.01.31-18.45.23:279][621]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2018.01.31-18.45.23:279][621]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2018.01.31-18.45.23:279][621]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2018.01.31-18.45.23:279][621]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2018.01.31-18.45.23:279][621]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2018.01.31-18.45.23:279][621]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2018.01.31-18.45.23:279][621]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2018.01.31-18.45.23:279][621]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2018.01.31-18.45.23:279][621]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2018.01.31-18.45.23:279][621]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2018.01.31-18.45.23:279][621]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2018.01.31-18.45.23:279][621]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2018.01.31-18.45.23:279][621]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2018.01.31-18.45.23:280][621]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2018.01.31-18.45.23:280][621]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2018.01.31-18.45.23:280][621]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2018.01.31-18.45.23:280][621]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2018.01.31-18.45.23:280][621]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2018.01.31-18.45.23:280][621]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2018.01.31-18.45.23:280][621]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2018.01.31-18.45.23:280][621]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2018.01.31-18.45.23:280][621]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2018.01.31-18.45.23:280][621]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2018.01.31-18.45.23:280][621]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.01.31-18.45.23:280][621]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.01.31-18.45.23:280][621]LogOnline: Display: Unloading online subsystem: NULL
+[2018.01.31-18.45.23:280][621]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.01.31-18.45.23:280][621]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.01.31-18.45.23:280][621]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.01.31-18.45.23:280][621]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC3B9B6E2-4004-7B7C-4AA4-F18DC4664432%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=7c0a25c7485e2b875afb35bb3035d7f7%7C43e84ffb32fb4f3c9165a5848a6b3a1d%7Cdcc6e02c-f826-4eae-9ef8-0e5be7b949b8&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.01.31-18.45.23:286][621]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.01.31-18.45.23:289][621]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.01.31-18.45.23:289][621]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.01.31-18.45.23:289][621]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.01.31-18.45.23:289][621]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.01.31-18.45.23:289][621]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.01.31-18.45.23:289][621]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.01.31-18.45.23:289][621]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.01.31-18.45.23:295][621]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.01.31-18.45.23:295][621]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.01.31-18.45.23:295][621]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.01.31-18.45.23:295][621]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.01.31-18.45.23:295][621]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.01.31-18.45.23:295][621]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.01.31-18.45.23:295][621]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.01.31-18.45.23:295][621]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.01.31-18.45.23:295][621]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.01.31-18.45.23:295][621]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.01.31-18.45.23:295][621]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.01.31-18.45.23:299][621]LogExit: Exiting.
+[2018.01.31-18.45.23:318][621]Log file closed, 01/31/18 18:45:23
